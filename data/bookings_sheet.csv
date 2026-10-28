@@ -1,0 +1,3 @@
+PNR,TrainNumber,TrainName,FromStation,ToStation,Date,Class,Platform,FarePaid,Status,PassengerCount,UserId,BookedAt
+"9182374610","12951","Mumbai Rajdhani Express","CSMT","NDLS","2026-10-28","2A","18","2700","CONFIRMED","1","usr_1793203345982","2026-10-28T16:03:00.000Z"
+"8420194821","12124","Deccan Queen Superfast","PUNE","CSMT","2026-10-28","3A","1","580","CONFIRMED","2","usr_1","2026-10-28T15:56:05.067Z"

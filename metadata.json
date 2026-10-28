@@ -1,0 +1,6 @@
+{
+  "name": "RailYatra - Indian Railway Reservation System",
+  "description": "A comprehensive Indian Railway ticket booking, live tracking, connecting routes, and fare analysis system built for college Web Technology projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

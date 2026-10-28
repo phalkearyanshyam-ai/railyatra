@@ -1,0 +1,58 @@
+[
+  {
+    "pnr": "9182374610",
+    "trainNumber": "12951",
+    "trainName": "Mumbai Rajdhani Express",
+    "from": "CSMT",
+    "to": "NDLS",
+    "date": "2026-10-28",
+    "classType": "2A",
+    "platform": 18,
+    "farePaid": 2700,
+    "status": "CONFIRMED",
+    "userId": "usr_1793203345982",
+    "bookedAt": "2026-10-28T16:03:00.000Z",
+    "passengers": [
+      {
+        "name": "Aryan",
+        "age": 21,
+        "gender": "Male",
+        "coach": "A1",
+        "seat": 12,
+        "berth": "LB"
+      }
+    ]
+  },
+  {
+    "pnr": "8420194821",
+    "trainNumber": "12124",
+    "trainName": "Deccan Queen Superfast",
+    "from": "PUNE",
+    "to": "CSMT",
+    "date": "2026-10-28",
+    "classType": "3A",
+    "platform": 1,
+    "farePaid": 580,
+    "status": "CONFIRMED",
+    "userId": "usr_1",
+    "bookedAt": "2026-10-28T15:56:05.067Z",
+    "passengers": [
+      {
+        "name": "Rahul Sharma",
+        "age": 24,
+        "gender": "Male",
+        "coach": "B1",
+        "seat": 14,
+        "berth": "UB"
+      },
+      {
+        "name": "Pooja Sharma",
+        "age": 22,
+        "gender": "Female",
+        "coach": "B1",
+        "seat": 15,
+        "berth": "SL"
+      }
+    ]
+  }
+]

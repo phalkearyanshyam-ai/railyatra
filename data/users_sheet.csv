@@ -1,0 +1,4 @@
+ID,Name,Email,Password,Role,CreatedAt
+"usr_1","Rahul Sharma","rahul@gmail.com","pass","user","2026-10-28T15:56:05.066Z"
+"usr_admin","IRCTC Admin","admin@railyatra.com","admin123","admin","2026-10-28T15:56:05.067Z"
+"usr_1793203345982","Aryan Test","aryantest123","x","user","2026-10-28T16:02:25.982Z"

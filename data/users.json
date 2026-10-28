@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usr_1",
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "password": "pass",
+    "role": "user",
+    "createdAt": "2026-10-28T15:56:05.066Z"
+  },
+  {
+    "id": "usr_admin",
+    "name": "IRCTC Admin",
+    "email": "admin@railyatra.com",
+    "password": "admin123",
+    "role": "admin",
+    "createdAt": "2026-10-28T15:56:05.067Z"
+  },
+  {
+    "id": "usr_1793203345982",
+    "name": "Aryan Test",
+    "email": "aryantest123",
+    "password": "x",
+    "role": "user",
+    "createdAt": "2026-10-28T16:02:25.982Z"
+  }
+]
